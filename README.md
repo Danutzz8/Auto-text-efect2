@@ -1,3 +1,3 @@
 # Auto-text-efect2
 
-Auto efect on typing
+Auto efect on typing.
